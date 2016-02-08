@@ -1,0 +1,5 @@
+
+stashed changes
+file 3 in master branch
+
+v2 changes
